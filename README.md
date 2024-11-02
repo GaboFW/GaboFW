@@ -1,12 +1,20 @@
-# Hi, I'm @GaboFw 👋
+# Hola, soy @GaboFw 👋
 
-I am interested in learning new technologies and skills to be a developer.
+Estoy interesado en aprender nuevas tecnologias y habilidades como developer
 
-## About Me
-- 🔭 I’m currently working on various personal and collaborative projects.
-- 🌱 I’m learning new programming languages and tools every day.
-- 💻 I’m passionate about creating efficient, scalable, and user-friendly applications.
+## Conozco:
+ - Python
+ - C#
+ - Javascript
+ - PHP
+ - SQL
+ - HTML
+ - Css
 
-## Get in touch
-- GitHub: [@GaboFw](https://github.com/GaboFw)
-<!-- - Linkedin: [@nombre](url) -->
+## Sobre Mi:
+- Aprendo Rapido: Me adapto rapido a nuevas tecnologias y al metodo de trabajo
+- Me gusta el trabajo en equipo y poder colaborar con otros compañeros
+
+## Para mas informacion:
+- ![Github](https://img.icons8.com/ios-glyphs/30/ffffff/github.png) GitHub: [@GaboFw](https://github.com/GaboFw)
+- ![Linkedin](https://img.icons8.com/color/48/000000/linkedin.png) Linkedin: [Gabriel Fernandez Waisberg](https://www.linkedin.com/in/gabriel-fernandez-waisberg/)
